@@ -1,0 +1,26 @@
+C:\Users\Francisco Valenzuela\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Francisco Valenzuela\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Francisco Valenzuela\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Francisco Valenzuela\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Francisco Valenzuela\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\Francisco Valenzuela\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Francisco Valenzuela\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Francisco Valenzuela\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\Francisco Valenzuela\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Francisco Valenzuela\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Francisco Valenzuela\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Francisco Valenzuela\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\Francisco Valenzuela\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\Interop.MSHTML.dll
+C:\Users\Francisco Valenzuela\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbproj.ResolveComReference.cache
+C:\Users\Francisco Valenzuela\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\Francisco Valenzuela\source\repos\WindowsApp1\WindowsApp1\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Francisco Valenzuela\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Francisco Valenzuela\source\repos\WindowsApp1\WindowsApp1\bin\Debug\obteneruf.exe.config
+C:\Users\Francisco Valenzuela\source\repos\WindowsApp1\WindowsApp1\bin\Debug\obteneruf.exe
+C:\Users\Francisco Valenzuela\source\repos\WindowsApp1\WindowsApp1\bin\Debug\obteneruf.pdb
+C:\Users\Francisco Valenzuela\source\repos\WindowsApp1\WindowsApp1\bin\Debug\obteneruf.xml
+C:\Users\Francisco Valenzuela\source\repos\WindowsApp1\WindowsApp1\obj\Debug\obteneruf.Form1.resources
+C:\Users\Francisco Valenzuela\source\repos\WindowsApp1\WindowsApp1\obj\Debug\obteneruf.Resources.resources
+C:\Users\Francisco Valenzuela\source\repos\WindowsApp1\WindowsApp1\obj\Debug\obteneruf.exe
+C:\Users\Francisco Valenzuela\source\repos\WindowsApp1\WindowsApp1\obj\Debug\obteneruf.xml
+C:\Users\Francisco Valenzuela\source\repos\WindowsApp1\WindowsApp1\obj\Debug\obteneruf.pdb
